@@ -16,4 +16,4 @@ A small but formidable list of places where writers can find jobs and career-rel
 
 ---
 
-List compiled by [Stephanie Morillo](https://www.stephaniemorillo.co/links).
+List compiled by [Stephanie Morillo](https://www.stephaniemorillo.co/links). Found it useful? [Consider becoming a GitHub Sponsor!](https://www.github.com/sponsors/rubymorillo)
